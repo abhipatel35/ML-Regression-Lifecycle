@@ -21,21 +21,15 @@ This repository presents a comprehensive guide to the end-to-end lifecycle of a 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/abhipatel35/ML-Regression-Lifecycle.git
    ```
 
 2. **Navigate to the Project Directory:**
-   ```bash
-   cd your-repository
-   ```
 
 3. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 4. **Run the Jupyter Notebook or Python Script:**
-   - Open and run the Jupyter Notebook/Pycharm to execute the Python script `Regression_UseCase.py` to explore the complete project.
+   - Open and run the Jupyter Notebook/Pycharm to execute the Python script `main.py` to explore the complete project.
 
 ### Project Structure
 
